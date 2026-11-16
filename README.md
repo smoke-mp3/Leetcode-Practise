@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/smoke-mp3/Leetcode-Practise/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/smoke-mp3/Leetcode-Practise/tree/master/0067-add-binary) |
+| [2235-add-two-integers](https://github.com/smoke-mp3/Leetcode-Practise/tree/master/2235-add-two-integers) |
 ## String
 |  |
 | ------- |
