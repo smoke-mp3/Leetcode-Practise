@@ -31,4 +31,12 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/smoke-mp3/Leetcode-Practise/tree/master/0231-power-of-two) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/smoke-mp3/Leetcode-Practise/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/smoke-mp3/Leetcode-Practise/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
